@@ -1,0 +1,50 @@
+VALID INVALID;ID TEST;FILE;EXPECTED RESULT
+INVALID;RF3 1;revoke_invalido1.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 2;revoke_invalido2.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 3;revoke_invalido3.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 4;revoke_invalido4.json;JSON Decode Error - Wrong label
+INVALID;RF3 5;revoke_invalido5.json;key already Revoqued
+INVALID;RF3 6;revoke_invalido6.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 7;revoke_invalido7.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 8;revoke_invalido8.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 9;revoke_invalido9.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 10;revoke_invalido10.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 11;revoke_invalido11.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 12;revoke_invalido12.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 13;revoke_invalido13.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 14;revoke_invalido14.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 15;revoke_invalido15.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 16;revoke_invalido16.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 17;revoke_invalido17.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 18;revoke_invalido18.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 19;revoke_invalido19.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 20;revoke_invalido20.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 21;revoke_invalido21.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 22;revoke_invalido22.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 23;revoke_invalido23.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 24;revoke_invalido24.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 25;revoke_invalido25.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 26;revoke_invalido26.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 27;revoke_invalido27.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 28;revoke_invalido28.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 29;revoke_invalido29.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 30;revoke_invalido30.json;JSON Decode Error - Wrong label
+INVALID;RF3 31;revoke_invalido31.json;JSON Decode Error - Wrong label
+INVALID;RF3 32;revoke_invalido32.json;JSON Decode Error - Wrong label
+INVALID;RF3 33;revoke_invalido33.json;key invalid
+INVALID;RF3 34;revoke_invalido34.json;key invalid
+INVALID;RF3 35;revoke_invalido35.json;key invalid
+INVALID;RF3 36;revoke_invalido36.json;JSON Decode Error - Wrong label
+INVALID;RF3 37;revoke_invalido37.json;JSON Decode Error - Wrong label
+INVALID;RF3 38;revoke_invalido38.json;JSON Decode Error - Wrong label
+INVALID;RF3 39;revoke_invalido39.json;Revoque invalid
+INVALID;RF3 40;revoke_invalido40.json;Revoque invalid
+INVALID;RF3 41;revoke_invalido41.json;Revoque invalid
+INVALID;RF3 42;revoke_invalido42.json;JSON Decode Error - Wrong label
+INVALID;RF3 43;revoke_invalido43.json;JSON Decode Error - Wrong label
+INVALID;RF3 44;revoke_invalido44.json;JSON Decode Error - Wrong label
+INVALID;RF3 45;revoke_invalido45.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 46;revoke_invalido46.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 47;revoke_invalido47.json;JSON Decode Error - Wrong JSON Format
+INVALID;RF3 48;revoque_con_clave_erronea.json;Error la clave no existe
+INVALID;RF3 49;revoke_valido.json;key already Revoqued
